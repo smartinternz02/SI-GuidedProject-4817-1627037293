@@ -1,0 +1,18 @@
+﻿<process name="Assignment 1" version="1.0" bpversion="6.10.2.42081" narrative="" byrefcollection="true" preferredid="6adbe78c-e17c-4b87-9e99-8ea5c7180faa">
+  <view>
+    <camerax>0</camerax>
+    <cameray>0</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  <stage stageid="866c60db-ff94-4c64-9d65-859314d9ebd5" name="Start" type="Start">
+    <display x="15" y="-105" />
+  </stage>
+  <stage stageid="af329b5d-066a-4174-8c6c-11e5de8491fc" name="End" type="End">
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="f282cf67-177d-4ca1-ac46-edb8fca25fea" name="Stage1" type="ProcessInfo">
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+</process>
